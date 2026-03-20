@@ -302,6 +302,9 @@ Interested in Web Development, Backend Systems, and Scalable Applications.
 GitHub: https://github.com/your-username
 LinkedIn: https://linkedin.com/in/your-profile
 
+Frontend By : Samu
+Backend BY : Tejus
+
 ---
 
 # License
